@@ -1,0 +1,26 @@
+integer
+the data type for whole numbers
+RISC
+reduced instruction set computing
+CISC
+complex instruction set computing
+RAM
+random access memory
+ROM
+read only memory
+firmware
+another name for bios
+BIOS
+basic input output system
+array
+a static data structure with base 0 capable of storing a single data type
+subprocedure
+a named section of code designed to carry out a function and return a value
+string
+the data type for a set of characters
+boolean
+the data type for a true/false value
+char
+the data type for a single character (number, word or symbol)
+pseudocode
+a non-specific coding language which is not in machine code, but written english
