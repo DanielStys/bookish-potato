@@ -1,16 +1,16 @@
 integer
 the data type for whole numbers
-RISC
+risc
 reduced instruction set computing
-CISC
+cisc
 complex instruction set computing
-RAM
+ram
 random access memory
-ROM
+rom
 read only memory
 firmware
 another name for bios
-BIOS
+bios
 basic input output system
 array
 a static data structure with base 0 capable of storing a single data type
